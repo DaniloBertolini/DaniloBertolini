@@ -21,3 +21,5 @@
   <a href="https://www.linkedin.com/in/danilobertolini/" target:"_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     <a href="https://www.instagram.com/_danilinh0_/" target:"_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </div>
+
+<img src="https://github.com/DaniloBertolini/DaniloBertolini/blob/output/github-contribution-grid-snake.svg" align="center">
