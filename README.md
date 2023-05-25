@@ -2,7 +2,6 @@
 
 - 🌱 Estudante da Trybe 
 - :construction: Construindo... :construction:
-- Linguagens:
 
 <div>
   <img heigth="140em" src="https://github-readme-stats.vercel.app/api?username=DaniloBertolini&show_icons=true&theme=tokyonight">
