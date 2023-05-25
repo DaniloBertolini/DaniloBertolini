@@ -5,7 +5,8 @@
 - Linguagens:
 
 <div>
-  https://github-readme-stats.vercel.app/api?username=DaniloBertolini&show_icons=true&theme=dracula
+  <a>https://github-readme-stats.vercel.app/api?username=DaniloBertolini&show_icons=true&theme=dracula</a>
+  <a>https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloBertolini&layout=compact</a>
 </div>
 
 <div style="display: inline_block"><br>
