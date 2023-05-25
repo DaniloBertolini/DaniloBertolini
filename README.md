@@ -5,8 +5,8 @@
 - Linguagens:
 
 <div>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloBertolini&show_icons=true&theme=dracula">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloBertolini&layout=compact">
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloBertolini&show_icons=true&theme=tokyonight">
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloBertolini&layout=compact&theme=tokyonight">
 </div>
 
 <div style="display: inline_block"><br>
