@@ -5,7 +5,7 @@
 - Linguagens:
 
 <div>
-  ![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniloBertolini&show_icons=true&theme=dracula)
+  https://github-readme-stats.vercel.app/api?username=DaniloBertolini&show_icons=true&theme=dracula
 </div>
 
 <div style="display: inline_block"><br>
