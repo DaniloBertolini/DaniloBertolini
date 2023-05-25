@@ -4,6 +4,10 @@
 - :construction: Construindo... :construction:
 - Linguagens:
 
+<div>
+  ![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniloBertolini&show_icons=true&theme=dracula)
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
