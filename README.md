@@ -19,7 +19,7 @@
     ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
     ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
   - #### Data-base
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=12&duration=3000&pause=1000&color=0071BD&width=435&lines=Estudando+para+evoluir+a+cada+dia...)](https://git.io/typing-svg)
+    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   - #### Tools
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
     ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
