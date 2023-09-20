@@ -1,7 +1,10 @@
 ## Olá! Eu sou o Danilo Bertolini
 
-- 🌱 Estudante da Trybe 
-- :construction: Construindo... :construction:
+- 🌱 Estudante da Trybe
+
+Sou apaixonado por Tecnologia, desenvolvimento e programação. Estudo Desenvolvimento Web na Trybe, uma escola focada nas demandas do mercado atual, como Aprender a aprender, metodologias ágeis, a comunicação, inteligência emocional, React, Typescript, Tests, etc. Gerenciamento de Estados. Além disso, ensinam você a programar do zero com uma boa didática, com a mão na massa, ganhando bastante conhecimento e experiências com projetos.
+
+Meu primeiro contato com a programação foi na faculdade que eu fiz Redes de Computadores no IFC, e uma das matérias foi Desenvolvimento Web. Eles passaram um site para o estudo, que foi o DIO. Lá fiz alguns cursos básicos para me ajudar, e isso me ajudou bastante quando ingressei na Trybe, pois já entrei com um conhecimento que facilitou o meu aprendizado.
 
 ## Tecnologias
   - #### Front-end
@@ -22,7 +25,7 @@
   - #### Data-base
     ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   - #### Tools
-  - ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
     ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
