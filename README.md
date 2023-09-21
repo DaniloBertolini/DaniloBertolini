@@ -41,6 +41,6 @@ Meu primeiro contato com a programação foi na faculdade que eu fiz Redes de Co
 ##
 
 <p> 
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=DaniloBertolini&show_icons=true&locale=en&theme=transparent&hide=stars" alt="DaniloBertolini" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=DaniloBertolini&count_private=true&show_icons=true&locale=en&theme=transparent&hide=stars" alt="DaniloBertolini" />
   <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaniloBertolini&show_icons=true&locale=en&layout=compact&theme=transparent" alt="DaniloBertolini" />
 </p>
