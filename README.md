@@ -2,7 +2,7 @@
 
 - 🌱 Estudante da Trybe
 
-Desenvolvedor Web Full Stack curioso e apaixonado por programação. Tenho conhecimento em HTML, CSS, JS, TS, React, Testes, mySQL, Docker, Node, Context API, API Rest, bem como metodologias ágeis. 
+Desenvolvedor Web Full Stack curioso e apaixonado por programação. Tenho conhecimento em HTML, CSS, JS, TS, React, Testes, mySQL, Docker, Node, API Rest, bem como metodologias ágeis. 
 
 Meu primeiro contato com a programação foi na faculdade que eu fiz Redes de Computadores no IFC, e uma das matérias foi Desenvolvimento Web. Atraído pela Tecnologia, estudei por fora também, em um site chamado DIO. Lá fiz alguns cursos básicos, e posteriormente ingressei na Trybe, uma escola de Tecnologia.
 
