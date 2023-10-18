@@ -2,9 +2,9 @@
 
 - 🌱 Estudante da Trybe
 
-Sou apaixonado por Tecnologia, desenvolvimento e programação. Estudo Desenvolvimento Web na Trybe, uma escola focada nas demandas do mercado atual, como Aprender a aprender, metodologias ágeis, a comunicação, inteligência emocional, React, Typescript, Tests, etc. Gerenciamento de Estados. Além disso, ensinam você a programar do zero com uma boa didática, com a mão na massa, ganhando bastante conhecimento e experiências com projetos.
+Desenvolvedor Web Full Stack curioso e apaixonado por programação. Tenho conhecimento em HTML, CSS, JS, TS, React, Testes, mySQL, Docker, Node, Context API, API Rest, bem como metodologias ágeis. 
 
-Meu primeiro contato com a programação foi na faculdade que eu fiz Redes de Computadores no IFC, e uma das matérias foi Desenvolvimento Web. Eles passaram um site para o estudo, que foi o DIO. Lá fiz alguns cursos básicos para me ajudar, e isso me ajudou bastante quando ingressei na Trybe, pois já entrei com um conhecimento que facilitou o meu aprendizado.
+Meu primeiro contato com a programação foi na faculdade que eu fiz Redes de Computadores no IFC, e uma das matérias foi Desenvolvimento Web. Atraído pela Tecnologia, estudei por fora também, em um site chamado DIO. Lá fiz alguns cursos básicos, e posteriormente ingressei na Trybe, uma escola de Tecnologia.
 
 ## Tecnologias
   - #### Front-end
